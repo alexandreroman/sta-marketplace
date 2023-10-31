@@ -19,10 +19,10 @@ spec:
       value: "17"
   resources:
     requests:
-      cpu: 2
-      memory: 2Gi
+      cpu: 1
+      memory: 1Gi
     limits:
-      memory: 2Gi
+      memory: 1Gi
   params:
   - name: annotations
     value:
